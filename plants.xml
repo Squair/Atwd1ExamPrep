@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+    <plant id="67">
+        <common>Bloodroot</common>
+        <botanical>Sanguinaria candaensis</botanical>
+        <img>san_can.jpg</img>
+        <shelf>7</shelf>
+        <light icon="shade.png">Mostly shady</light>
+        <price>2.44</price>
+        <stock>103</stock>
+    </plant>
+     <plant id="78">
+        <common>Columbine</common>
+        <botanical>Aquilence candensis</botanical>
+        <img>anq_can.jpg</img>
+        <shelf>3</shelf>
+        <light icon="shade.png">Mostly shady</light>
+        <price>5.37</price>
+        <stock>220</stock>
+    </plant>
+    <plant id="56">
+        <common>Marsh marigold</common>
+        <botanical>Caltha palustris</botanical>
+        <img>cal_pal.jpg</img>
+        <shelf>4</shelf>
+        <light icon="sun.png">Mostly sunny</light>
+        <price>3.81</price>
+        <stock>64</stock>
+    </plant>
+</catalogue>
